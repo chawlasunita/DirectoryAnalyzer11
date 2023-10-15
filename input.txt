@@ -1,0 +1,4 @@
+Name,Email,Phone
+honey,hn@example.com,8679034890
+leena,hcl@example.com,9890435624
+InvalidRecord
